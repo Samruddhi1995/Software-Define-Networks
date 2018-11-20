@@ -4,6 +4,9 @@ Mininet, RYU, OpenFLow v-1.3
 Topology 
 
 
+![alt text](Software-Define-Networks/lab 4/Screenshot 2018-11-20 10.14.53.png)
+      
+
 
 Following Rules are implemented
 
