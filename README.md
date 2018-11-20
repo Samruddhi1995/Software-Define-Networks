@@ -4,7 +4,7 @@ Mininet, RYU, OpenFLow v-1.3
 Topology 
 
 
-![alt text](Software-Define-Networks/lab 4/Screenshot 2018-11-20 10.14.53.png)
+![alt text](https://github.com/Samruddhi1995/Software-Define-Networks/blob/master/lab%204/Screenshot%202018-11-20%2010.14.53.png)
       
 
 
