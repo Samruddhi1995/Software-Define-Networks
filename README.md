@@ -14,7 +14,7 @@ Following Rules are implemented
 
 2 When there are two shortest paths available
 
-  	ICMP and TCP packets take the lower/left path
+    ICMP and TCP packets take the lower/left path
     
     S1-S2-S3 and S2-S3-S4
     
